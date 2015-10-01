@@ -172,3 +172,4 @@ New features: custom templates & query by author.
 
 = 0.1 =
 First release.
+2015
